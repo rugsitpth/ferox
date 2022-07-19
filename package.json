@@ -1,0 +1,12 @@
+{
+  "name": "ferox",
+  "version": "0.1.0",
+  "description": "Discord bot for ARK Thailand community",
+  "main": "ferox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
