@@ -13,3 +13,21 @@ Application based
 
 API framework
 - [discord.js](https://github.com/discordjs/discord.js/)
+
+## Installation
+### Step one: Install the required dependencies package.
+```
+npm install
+```
+### Step two: Config your bot token, client ID, and guild ID
+```
+node setup.js
+```
+### Step three: Run your bot.
+```
+node index.js
+```
+#### Optional: This bot already included `Dockerfile` For building Docker images for running as container
+```
+Docker build -t <tag-name> .
+```
